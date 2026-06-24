@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.env
+.env.*
+node_modules/
+frontend/.next/
+frontend/out/
+backend/app/__pycache__/
+backend/**/*.pyc
+docker-compose.override.yml
+*.log
+postgres-data/
